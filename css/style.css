@@ -1,0 +1,44 @@
+.h4-box {
+	float: left;
+	margin: 86px 1108px 15px 163px;
+}
+.h4 {
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins-B';
+}
+.h2-box {
+	float: left;
+	width: 379px;
+	height: 88px;
+	margin: 0 783px 55px 163px;
+}
+.h2 {
+	font-size: 42px;
+	color: #000000;
+	font-family: 'Poppins-EB';
+}
+.section-box {
+	float: left;
+	margin: 0 207px 94px 163px;
+	width: 268px;
+	height: 163px;
+}
+.h3 {
+	font-size: 18px;
+	color: #000000;
+	font-family:'Poppins-SB';
+}
+.p {
+    font-size: 14px;
+    color: #B1B1B1;
+	font-family: 'Poppins-M';
+}
+.img-box {
+	float: left;
+}
+.text-box {
+	float: left;
+	width: 234px;
+	height: 101px;
+}
