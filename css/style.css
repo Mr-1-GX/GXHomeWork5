@@ -1,6 +1,16 @@
-.h4-box {
-	margin: 86px 1108px 15px 163px;
+/*base classes*/
+.f-l {
 	float: left;
+}
+.f-r {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+/*section-1*/
+.h4-box {
+	margin: 82px 0 0 163px;
 }
 .h4 {
 	font-size: 14px;
@@ -8,21 +18,27 @@
 	font-family: 'Poppins-B';
 }
 .h2-box {
-	width: 379px;
-	height: 88px;
-	margin: 0 783px 55px 163px;
-	float: left;
+	width: 498px;
+	margin: 1px 783px 50px 163px;
 }
 .h2 {
 	font-size: 42px;
 	color: #000000;
 	font-family: 'Poppins-EB';
 }
-.section-box {
-	margin: 0 207px 94px 163px;
-	width: 268px;
-	height: 163px;
-	float: left;
+.contayner {
+	margin: 0 0 0 163px;
+	width: 1088px;
+}
+.box-l {
+	width: 536px;
+    background-color: #F8F8F8;
+    margin: 0 16px 16px 0;
+}
+.box-r {
+	width: 536px;
+	background-color: #F8F8F8;
+    margin: 0 0 16px 0;
 }
 .h3 {
 	font-size: 18px;
@@ -33,17 +49,20 @@
     font-size: 14px;
     color: #B1B1B1;
 	font-family: 'Poppins-M';
-}
-.box-1 {
-    width: 536px;
-    background-color: #F8F8F8;
-    float: left;
-}
-.img-box {
-	float: left;
+	margin: 10px 0 0 0;
 }
 .text-box {
-	width: 234px;
-	height: 101px;
-	float: left;
+	width: 260px; 
+	margin: 37px 0 0 16px;
+}
+/*section-2*/
+.box-1 {
+	height: 360px;
+    background-color: #F8F8F8;
+    margin: 0 10px 10px 0;
+}
+.text-box-1 {
+	width: 260px; 
+	margin: 23px 0 0 46px;
+	text-align: center;
 }
